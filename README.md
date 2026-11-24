@@ -377,3 +377,4 @@ slide.xml
 
 
 ## RESULT
+Thus a Simple Android Application to add animations: Move,blink,fade,clockwise,zoom,slide operations using Android Studio is developed and executed successfully.
